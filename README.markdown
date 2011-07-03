@@ -1,0 +1,3 @@
+# Rails Tut
+
+Sample App
